@@ -14,8 +14,8 @@
 
 
 # ✌️ Achievements:
--SheHack2026 Hackathon winner
--GATE DA 2026 AIR 4561
+- GATE DA 2026 AIR 4561
+- SheHack2026 Hackathon winner
 
 <!--
 **VINEELAMALLA/VINEELAMALLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
